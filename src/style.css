@@ -5,3 +5,13 @@ margin: 0%;
 .text-info{
     margin-left: 6vh;
 }
+.home {
+    text-align: center;
+}
+.home h1 {
+    padding: 5%;
+}
+.home p {
+    padding: 2%;
+    margin: 2%;
+}

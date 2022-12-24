@@ -7,7 +7,6 @@ import  {Navbar, Nav, Container }  from 'react-bootstrap';
 function Header() {
 
   return (
-
 <Navbar bg='dark' expand="lg" variant='light' className='justify-content-center'>
     <Nav>
       <Nav.Link as={Link} to='/' className='text-info'>Home</Nav.Link>
@@ -15,7 +14,6 @@ function Header() {
       <Nav.Link as={Link} to='/contact'className='text-info'>Contact Me</Nav.Link>
  </Nav> 
 </Navbar>
-
 
     )
 }
