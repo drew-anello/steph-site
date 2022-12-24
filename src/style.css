@@ -15,3 +15,11 @@ margin: 0%;
     padding: 2%;
     margin: 2%;
 }
+.pricing img{
+    margin-top: 3%;
+    height: 60%;
+    width:40%;
+    display: flex;
+    align-items: center;
+
+}
