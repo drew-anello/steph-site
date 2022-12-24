@@ -4,6 +4,8 @@ import Nav from './Components/Nav'
 import Home from './Pages/Home'
 import Pricing from './Pages/Pricing'
 import Contact from './Pages/Contact'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import'./style.css'
 
 function App() {
   return (
